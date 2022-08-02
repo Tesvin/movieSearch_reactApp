@@ -1,6 +1,6 @@
 {
-  "homepage": "http://tesvin.github.io/movieSearch_reactApp",
   "name": "reactapp",
+  "homepage": "http://tesvin.github.io/movieSearch_reactApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
