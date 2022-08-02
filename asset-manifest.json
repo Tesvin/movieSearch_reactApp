@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/movieSearch_reactApp/static/css/main.334bdeb1.css",
-    "main.js": "/movieSearch_reactApp/static/js/main.b96f00e0.js",
-    "index.html": "/movieSearch_reactApp/index.html",
-    "static/media/search.svg": "/movieSearch_reactApp/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.334bdeb1.css.map": "/movieSearch_reactApp/static/css/main.334bdeb1.css.map",
-    "main.b96f00e0.js.map": "/movieSearch_reactApp/static/js/main.b96f00e0.js.map"
+    "main.css": "/Tesvin/movieSearch_reactApp.git/static/css/main.334bdeb1.css",
+    "main.js": "/Tesvin/movieSearch_reactApp.git/static/js/main.d8b60d27.js",
+    "index.html": "/Tesvin/movieSearch_reactApp.git/index.html",
+    "static/media/search.svg": "/Tesvin/movieSearch_reactApp.git/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/Tesvin/movieSearch_reactApp.git/static/css/main.334bdeb1.css.map",
+    "main.d8b60d27.js.map": "/Tesvin/movieSearch_reactApp.git/static/js/main.d8b60d27.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.b96f00e0.js"
+    "static/js/main.d8b60d27.js"
   ]
 }
